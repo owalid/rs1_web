@@ -87,6 +87,7 @@ class App extends Component{
         }
         return (
             <section>
+			<p>Coucou</p>
                 <div className="container padding-50-bottom">
                     <nav className="navbar navbar-expand">
                         <form className="collapse navbar-collapse w-100 order-3 dual-collapse1" id="navbarSupportedContent">
